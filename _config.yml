@@ -11,39 +11,39 @@ rdiscount:
 # Basics
 #
 # 0. Page title and theme
-title:            Stair-Rover
+title:            Kel52
 theme:            basic
 #
 # 1. Your website ( could be same as this page - see below )
-website:          http://www.stair-rover.com/
+website:          http://kel52.com/
 #
 # 2. URL of this page
-url:              http://[your_username].github.io/
+url:              http://klmdesignz.github.io/
 #
 # 3. About your kickstarter project
 project:
   #
   # Name of the project
-  name:           Stair-Rover
+  name:           KEL52
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
   url:            http://kck.st/12bbLkw
   #
   # URL of a cover photo of your project
-  cover_image:    http://static.wixstatic.com/media/b11e60_7416a5fc41a5d30b8b458bbe6c23b90f.jpg
+  cover_image:    http://agency.klmdesignz.com/wp-content/uploads/2014/09/snowboarding.jpeg
   #
   # Use a one-liner to describe your project
-  description:    Stair-Rover is a longboard that glides down stairs with a blast.
+  description:    Kel52 is reinventing helmet audio...
 #
 # 4. Your Twitter handle
-twitter_handle:   StairRover
+twitter_handle:  Kel52
 #
 # 5. Your Google analytics ID (Optional)
 google_analytics: 
 #
 # 6. Welcome text, add <br /> to break lines
 welcome_text:     |
-  This is the Stair-Rover team greeting from London. <br />
+  This is the KEL52 team greeting from Canada. <br />
   First of all, thank you for signing up to our mailing list. <br />
   Here's to tell you that our project is now live on Kickstarter,
   and now we have to count on your support to not only back the project, but also share the love. ♥
